@@ -42,3 +42,54 @@ nav .onglette input
     margin-bottom: 50px;
     background-color: #f2f2f2;
 }
+footer{
+    margin-top: 10rem;
+    background-color: #f3f3f3
+    ;
+padding: 2rem;
+}
+#parg-footr{
+    text-align: center;
+    font: 12px/18px Georgia;
+}
+#logo-footer{
+    width: 15rem;
+    height: 9rem;
+    margin-top: -2.5rem;
+}
+#par-msg{
+  
+    font: 12px/18px Georgia;
+    font-weight: 400;
+    color: #656565;
+}
+#val{
+    border-radius: 50%;
+    background-color: white;
+    color: #003a63;
+    width: 25px;
+    padding: 5px;
+    font-size: 16px;
+
+}
+.search-box{
+    width: 13rem;
+    font-size: 14px;
+
+}
+#res-sos-tot{
+    display: inline-grid;
+
+}
+#res-sos{
+   
+    margin-left: 9rem;  
+}
+#map-fot{
+    margin-right: 5rem;
+}
+.Recaptcha{
+   margin-top: 3rem;
+   width: 15rem !important;
+   height: 8rem !;
+}
